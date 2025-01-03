@@ -1,0 +1,6 @@
+[submodule "se347-backend"]
+	path = se347-backend
+	url = https://github.com/ngodat0103/se347-backend.git
+[submodule "se347-frontend"]
+	path = se347-frontend
+	url = https://github.com/ngodat0103/se347.git
